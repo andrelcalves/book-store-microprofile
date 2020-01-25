@@ -1,2 +1,4 @@
-/home/andre/workspace/book-store/src/main/java/com/kodnito/bookstore/rest/ApplicationConfig.java
-/home/andre/workspace/book-store/src/main/java/com/kodnito/bookstore/rest/HelloWorldEndpoint.java
+/home/andre/Documents/github/book-store-microprofile/src/main/java/com/kodnito/bookstore/service/BookService.java
+/home/andre/Documents/github/book-store-microprofile/src/main/java/com/kodnito/bookstore/rest/ApplicationConfig.java
+/home/andre/Documents/github/book-store-microprofile/src/main/java/com/kodnito/bookstore/rest/HelloWorldEndpoint.java
+/home/andre/Documents/github/book-store-microprofile/src/main/java/com/kodnito/bookstore/entity/Book.java

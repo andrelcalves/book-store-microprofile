@@ -1,2 +1,3 @@
 com/kodnito/bookstore/rest/ApplicationConfig.class
+com/kodnito/bookstore/entity/Book.class
 com/kodnito/bookstore/rest/HelloWorldEndpoint.class
